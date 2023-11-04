@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinkaansuren&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinkaansuren" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyinkaansuren" alt="huseyinkaansuren" /></a> </p>
-
 - 🌱 I’m currently learning **Miuul Data Scientist Bootcamp**
 
 - 📝 I regularly write articles on [https://medium.com/@huseyinkaansuren](https://medium.com/@huseyinkaansuren)
