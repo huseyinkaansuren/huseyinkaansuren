@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinkaansuren&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinkaansuren" /> </p>
 
-- 🌱 I’m currently learning **Miuul Data Scientist Bootcamp**
+- 🌱 I’m currently learning at **Miuul Data Scientist Bootcamp**
 
 - 📝 I regularly write articles on [https://medium.com/@huseyinkaansuren](https://medium.com/@huseyinkaansuren)
 
